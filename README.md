@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Devvit Mod Tool Template
 
 A template for building Reddit moderation tools using Devvit web. This template provides a complete foundation for creating custom moderation tools with bulk comment management capabilities.
@@ -92,3 +93,6 @@ The template demonstrates Reddit mod tool development through the "Mop" feature:
 4. Once approved, users can install your mod tool from Reddit's app directory
 
 This template provides everything you need to build powerful, user-friendly moderation tools for Reddit communities.
+=======
+# Reddit-bot
+>>>>>>> 5bc8a093bd6bc1d43a7ea80951fec6078af416ff
